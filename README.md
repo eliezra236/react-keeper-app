@@ -1,5 +1,5 @@
-React Keeper App.
+React Keeper App
 
-Feel free to use.
+An app to save your notes, feel free to use.
 
 Created by Eli Ezra :)
